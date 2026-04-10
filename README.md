@@ -31,6 +31,12 @@ This installs four skills into your AI agent (Claude Code, Codex, Cursor, Gemini
 | `/alex-query` | Ask questions against your wiki |
 | `/alex-lint` | Health-check the wiki |
 
+## Move skilles to .claude/skills folder
+```bash
+mkdir -p ~/.claude/skills
+mv ~/.agents/skills/alex* ~/.claude/skills/
+```
+
 ## Quick Start
 
 1. **Install the skills** (see above)
