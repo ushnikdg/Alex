@@ -105,5 +105,3 @@ After every 10 ingests or monthly — whichever comes first. Also run it before 
 - [Blueprint & origin story](docs/REQUIREMENTS.md) — the founding document for this project
 
 ---
-
-<p align="center">Want to learn how to build projects like this with AI? Join the <a href="https://www.skool.com/buildwithai/about">Build With AI</a> community.</p>
