@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# Second Brain — Onboarding Script
+# Onboarding Script
 # Scaffolds vault directory structure and verifies CLI tooling.
 #
 # Usage: bash onboarding.sh <vault-path>
